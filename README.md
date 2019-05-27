@@ -1,2 +1,2 @@
 # test-github
-some HTML code for learning Github
+some HTML codes for learning Github
